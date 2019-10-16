@@ -1,0 +1,89 @@
+[[Xorg_renderproto]]
+arch = "armv7l"
+git-tree-sha1 = "7f1ac7b6bba1cfdf51b49713db07a9d632cdc7f6"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "9a5bd13770842ec3a4940df3e75af487bc05df630b6da0877beeb8fc594a6f78"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.arm-linux-gnueabihf.tar.gz"
+[[Xorg_renderproto]]
+arch = "aarch64"
+git-tree-sha1 = "4af9389f361d36d4ec19f44795986027440f11f9"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "33149e8f434d381a6975d93a8a70866345af7ff658508cf30f9e9177db6c5e68"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.aarch64-linux-musl.tar.gz"
+[[Xorg_renderproto]]
+arch = "i686"
+git-tree-sha1 = "c04d0cac79603aafa6922fb70e69a0bee5fe741a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "3c3c800751766718ed0664b22dd3702e5724b2589b36da58627cd5a3e7cde86d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.i686-linux-musl.tar.gz"
+[[Xorg_renderproto]]
+arch = "i686"
+git-tree-sha1 = "eef46cd4931bab9731c7fbddd855c7810640b87a"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "d28ac06b1178edfa9613a37c427ff1a0a1e156f6147ba110026632c0c32b2a68"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.i686-linux-gnu.tar.gz"
+[[Xorg_renderproto]]
+arch = "x86_64"
+git-tree-sha1 = "38a3c30235d348a647486e5b5d52b2130d191e79"
+os = "freebsd"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "4480c389fffa7d545023c98e1e8350b974555890964b52f896717307b00538cb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_renderproto]]
+arch = "powerpc64le"
+git-tree-sha1 = "d72a41db977463831751c43809e4d49aefc86b7d"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "f9df0276c9b272ff63bfd23b175e176cc3c515e9eea879d9b474960a4d8d6061"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_renderproto]]
+arch = "armv7l"
+git-tree-sha1 = "67b268976e3430ab5061be2b8ec02cd49b9ff0b5"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "bd2915a91c2bddb6ffc4caaf305e474c8b234bdca57403cf9ad467ebce0aeb14"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.arm-linux-musleabihf.tar.gz"
+[[Xorg_renderproto]]
+arch = "aarch64"
+git-tree-sha1 = "831e10a18de4d8ef4d10caf3f9ffc33f9c3e4d7c"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "f4a18d0ed9cee38377a79527845a2b8611cdeb194e5062495da547a4ac51926f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.aarch64-linux-gnu.tar.gz"
+[[Xorg_renderproto]]
+arch = "x86_64"
+git-tree-sha1 = "b7e6798cad4bf546c60e39a00fe1274b2e56c596"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "df61db685c0902aa301159ac7424e8d3d0aead402fa267e8f133462d8a261391"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.x86_64-linux-gnu.tar.gz"
+[[Xorg_renderproto]]
+arch = "x86_64"
+git-tree-sha1 = "42d892f8b4b242efa815823b0bbaec6c12cf6549"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_renderproto.download]]
+    sha256 = "9d332f125c10be8a0a62b4da0a4057d63b40e28d26ad4d544baf54dd589393b5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_renderproto_jll.jl/releases/download/Xorg_renderproto-v0.11.1+0/Xorg_renderproto.v0.11.1.x86_64-linux-musl.tar.gz"
